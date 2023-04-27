@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Currently working on becoming a better developer<br>
+Currently working on becoming a great developer<br>
 
 # 💻 Tech Stack:
 
